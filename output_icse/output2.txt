@@ -1,1 +1,0 @@
- ERROR-notbatchjob: operation is valid only in an NBS batch job

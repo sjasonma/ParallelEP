@@ -1,9 +1,0 @@
-nCores = 4, k=324, alpha=0.05, delta=0.10, n0=10, bSize=10, seed=14850
-Initialization
-istar = 167, jstar = 211
---- 8.102343797683716 seconds ---
-Working stage
-Master finishing
-istar = 166, sum(n) = 4365, n(istar) = 315
---- 11.455383062362671 seconds ---
-Utilization = 99.14%
