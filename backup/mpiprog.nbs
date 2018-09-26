@@ -1,0 +1,4 @@
+#!/bin/sh
+##NBS-distributed: yes
+##NBS-queue: long
+$NBS_PATH/mpiexec EP_0_driver.py

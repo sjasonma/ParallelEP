@@ -1,0 +1,27 @@
+scp -r *.py sm2462@icse.cornell.edu:/fs/home/sm2462/Documents/RnS/EPmpi
+
+ssh sm2462@icse.cornell.edu
+pwd = $St$uiuo$
+ssh whale
+
+cd Documents/RnS/EPmpi
+export PATH=/fs/home/sm2462/anaconda2/bin/:$PATH
+source activate rns
+source deactivate
+
+
+
+nohup mpiexec -np 16 python EP_1_driver.py > "output/EPout_$(date +%m%d_%H%M%S).txt" &
+nohup mpiexec -np 16 python VKN_driver.py > "output/VKNout_$(date +%m%d_%H%M%S).txt" &
+ps -A | grep 8332
+
+mpiexec -np 24 python EP_1_driver.py > "output/EPout_$(date +%m%d_%H%M%S).txt"
+mpiexec -np 24 python VKN_driver.py > "output/VKNout_$(date +%m%d_%H%M%S).txt"
+
+
+
+805381
+805384 output
+805385 stdout
+
+jsub mpiprog.nbs -nproc 20 -stdout stdout2.txt

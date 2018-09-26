@@ -1,0 +1,12 @@
+nCores=24, k=3249, alpha=0.05, delta=0.10, n0=20, bSize=20, seed=14850
+Initialization
+Length of idx is 313
+313 candidate systems
+istar = 1871, jstar = 1890
+--- 42.1267590523 seconds ---
+Working stage
+Length of idx is 313
+Length of idx is 163
+istar = 1887, sum(n) = 121022 = 64980 + 56042, n(istar) = 5694
+--- 73.9345149994 seconds ---
+TotalSimTime = 1689.59, Utilization = 99.36%

@@ -1,0 +1,13 @@
+nCores=24, k=324, alpha=0.05, delta=0.10, n0=10, bSize=10, seed=14850
+Initialization
+Initial screening: 106 systems left
+--- 3.08438801765 seconds ---
+Working stage
+Round 100: 11 systems left
+Round 200: 6 systems left
+Round 300: 3 systems left
+Round 400: 1 systems left
+Round 500: 1 systems left
+istar = 166, sum(n) = 9150 = 3240 + 5910, n(istar) = 510
+--- 9.09465003014 seconds ---
+TotalSimTime = 203.12, Utilization = 97.10%

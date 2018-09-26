@@ -1,0 +1,8 @@
+Master starting with 20 workers
+Initialization
+istar = 32558, jstar = 32565
+--- 428.661720037 seconds ---
+Working stage
+Master finishing
+istar = 32555, sum(n) = 797154
+--- 2007.5681169 seconds ---

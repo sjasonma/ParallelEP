@@ -1,0 +1,8 @@
+nCores=24, k=57624, alpha=0.05, delta=0.10, n0=50, bSize=50, seed=14850
+Initialization
+istar = 32562, jstar = 34070
+--- 1949.50710297 seconds ---
+Working stage
+istar = 32557, sum(n) = 4040728 = 2881200 + 1159528, n(istar) = 63700
+--- 2906.636163 seconds ---
+TotalSimTime = 63749.17, Utilization = 95.36%

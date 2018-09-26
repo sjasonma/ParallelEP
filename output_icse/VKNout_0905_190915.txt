@@ -1,0 +1,34 @@
+nCores=16, k=3249, alpha=0.05, delta=0.10, n0=20, bSize=20, seed=14850
+Initialization
+Initial screening
+Initial screening: 916 systems left
+--- 63.3838310242 seconds ---
+Working stage
+Round 200: 69 systems left
+Round 400: 39 systems left
+Round 600: 22 systems left
+Round 800: 14 systems left
+Round 1000: 13 systems left
+Round 1200: 13 systems left
+Round 1400: 10 systems left
+Round 1600: 10 systems left
+Round 1800: 9 systems left
+Round 2000: 9 systems left
+Round 2200: 9 systems left
+Round 2400: 7 systems left
+Round 2600: 7 systems left
+Round 2800: 6 systems left
+Round 3000: 6 systems left
+Round 3200: 6 systems left
+Round 3400: 5 systems left
+Round 3600: 4 systems left
+Round 3800: 4 systems left
+Round 4000: 2 systems left
+Round 4200: 2 systems left
+Round 4400: 2 systems left
+Round 4600: 2 systems left
+Round 4800: 2 systems left
+Round 5000: 1 systems left
+istar = 1890, sum(n) = 180960 = 64980 + 115980, n(istar) = 5040
+--- 186.780169964 seconds ---
+TotalSimTime = 2716.68, Utilization = 96.97%

@@ -1,0 +1,10 @@
+Master starting with 20 workers
+Number of systems = 3249
+Initialization
+istar = 1887, jstar = 1645
+--- 143.989691019 seconds ---
+Working stage
+Master finishing
+istar = 1887, sum(n) = 41749, n(istar) = 1819
+--- 192.240015984 seconds ---
+Utilization = 97.59%
